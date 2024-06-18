@@ -10,6 +10,7 @@ The login form allows a user to log into their profile using their username and 
 * bodyParser
 * jsonwebtoken
 * mysql2
+## Version History
 ### Version 1.1:
 Push date: Tuesday, June 18. <br/>
 Version Info: This interation of the signup and login system is able to perform all the pre-required tasks including encrypting passwords, performing validations <br/>
