@@ -17,5 +17,5 @@ Version Info: This interation of the signup and login system is able to perform 
 and assigning a unique token to each user.<br/>
 ### Version 1.0:
 Push date: Tuesday, June 18.<br/>
-Version Info: Got the primitive functionality of the project done, right now, the signup and login system works, and both functinslities <br/>only accept a username and password for now. The system uses library bcrypt to hash the password and jsonWebToken to create the token to <br/>return to the user. 
+Version Info: Got the primitive functionality of the project done, right now, the signup and login system works, and both functionalities <br/>only accept a username and password for now. The system uses library bcrypt to hash the password and jsonWebToken to create the token to <br/>return to the user. 
 
